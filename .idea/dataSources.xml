@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="HydraDb" uuid="15f450b6-5a53-4512-b2fb-4cd788089427">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Hydra database</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://database-hydra.cdbwetjwipvv.us-east-2.rds.amazonaws.com:5432/hydra</jdbc-url>
+    </data-source>
+  </component>
+</project>
